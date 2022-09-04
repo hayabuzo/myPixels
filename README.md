@@ -22,3 +22,4 @@ This program sums the pixels of an image and calculates the median values for **
 **Value - Amount - Balance** — amount of value (% of a completely white image) and balance relative to the geometric middle of the image ("+" is deviation to the right, "-" is to the left, % of image width).
 
 **Processing** — options for crop according to the values and for saving.
+
